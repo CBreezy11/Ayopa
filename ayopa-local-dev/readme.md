@@ -22,7 +22,7 @@ to allow a consistent develop / deploy environment
 * run the ayopa image with a name with desired name, host network, launched in bash, mount your code directory into the container
 
 ### The previous steps would look like this
-`docker pull cbreezy/stack:aws
+`docker pull cbreezy/stack:aws`
 
 `git clone https://github.com/CBreezy11/Ayopa.git`
 

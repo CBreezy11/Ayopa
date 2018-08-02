@@ -3,7 +3,7 @@
 
 
 #### The goals for the environment were:
-* Use localstack to test on AWS services locally [localstack]("https://github.com/localstack/localstack")
+* Use localstack to test on AWS services locally. [localstack github](https://github.com/localstack/localstack)
 * Specifically the s3 and dynamodb services
 * Use in docker for consistency
 * Create an entire custom developing os container that can be changed as necessary as needs grow
@@ -14,7 +14,7 @@ to allow a consistent develop / deploy environment
 
 
 ## Setup steps
-* Have [docker installed]("https://www.docker.com/")
+* Have [docker installed](https://www.docker.com/)
 * Pull the cbreezy/stack:aws image from the dockerhub
 * clone this repo
 * build an image from the Dockerfile

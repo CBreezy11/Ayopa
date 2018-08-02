@@ -10,7 +10,7 @@
 to allow a consistent develop / deploy environment
 * Ubuntu 18.04 with git and nano and curl
 * Python3.6--check requirements.txt for dependencies installed
-* GOlang 1.9.1
+* GOlang 1.9.1--must set path to work `export PATH=$PATH:/usr/local/go/bin` then `mkdir $HOME/go` and good to go
 
 
 ## Setup steps

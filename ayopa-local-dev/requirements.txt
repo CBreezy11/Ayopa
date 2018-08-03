@@ -1,0 +1,7 @@
+awscli-local
+boto3
+Requests
+SQLAlchemy
+BeautifulSoup4
+IPython
+Flask
